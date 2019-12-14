@@ -1,1 +1,1 @@
-# spring-boot-react
+# spring-boot-react CRUD example
