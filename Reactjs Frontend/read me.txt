@@ -1,0 +1,3 @@
+Front end CRUD application using React Js
+
+Uses axios, formik, react-dom, react-js-pagination and react-router-dom
